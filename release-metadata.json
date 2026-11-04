@@ -1,0 +1,13 @@
+{
+  "repository": {
+    "owner": "jxttomm-coder",
+    "name": "ContrastSMP-Updates",
+    "manifestAsset": "manifest.json",
+    "latestManifestUrl": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/latest/download/manifest.json"
+  },
+  "releaseTagPattern": "v{packVersion}",
+  "assetUrlPattern": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/{tag}/{filename}",
+  "githubOwnerRequired": false,
+  "thirdPartyRedistributionReviewRequired": true,
+  "customModId": "vyltrexsmpmod"
+}
