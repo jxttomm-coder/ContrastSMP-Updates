@@ -10,12 +10,9 @@ import net.minecraft.client.gui.screens.Screen;
 import net.minecraft.client.gui.screens.TitleScreen;
 import net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen;
 import net.minecraft.network.chat.CommonComponents;
-import net.minecraft.resources.Identifier;
 
 /** Exit the standalone client instead of returning to Minecraft's title screen after disconnect. */
 public final class QuickExitClient implements ClientModInitializer {
-    public static final Identifier BRAND_BANNER = Identifier.fromNamespaceAndPath(
-        "contrast_quick_exit", "textures/gui/contrast_banner.png");
     private boolean directJoinStarted;
 
     @Override

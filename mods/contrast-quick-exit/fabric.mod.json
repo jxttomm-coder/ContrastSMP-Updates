@@ -1,14 +1,13 @@
 {
   "schemaVersion": 1,
   "id": "contrast_quick_exit",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "name": "Contrast SMP Quick Exit",
   "description": "Closes Minecraft after a multiplayer connection is disconnected.",
   "environment": "client",
   "entrypoints": {
     "client": ["com.vyltrex.contrastsmp.QuickExitClient"]
   },
-  "mixins": ["contrast_quick_exit.mixins.json"],
   "depends": {
     "fabricloader": ">=0.20.1",
     "minecraft": "26.3",

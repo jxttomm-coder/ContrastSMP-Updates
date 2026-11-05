@@ -1,9 +1,0 @@
-{
-  "pack": {
-    "description": "Contrast SMP blue menu and branded logo",
-    "pack_format": 64,
-    "min_format": [64, 0],
-    "max_format": [64, 0],
-    "supported_formats": [64, 64]
-  }
-}

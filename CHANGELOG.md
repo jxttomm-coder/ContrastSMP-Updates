@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.5
+
+- Restored Minecraft's original loading screen, title logo, and button artwork.
+- Removed the Contrast SMP UI resource pack from the managed profile.
+- Removes the old UI pack from `options.txt` on existing Launcher 2.4.0 installs.
+- Kept the faster disconnect exit and direct-join protections.
+
 ## 0.1.4
 
 - Fixed a startup crash caused by registering the loading banner before Minecraft creates its texture manager.
