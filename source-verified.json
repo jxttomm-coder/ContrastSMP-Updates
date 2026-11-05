@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T00:02:26.155Z",
+  "generatedAt": "2026-11-05T00:48:01.437Z",
   "minecraftVersion": "26.3",
   "fabricLoaderVersion": "0.20.1",
   "mods": [
@@ -1776,6 +1776,41 @@
         },
         "sourceUrl": "https://github.com/isXander/YetAnotherConfigLib",
         "issuesUrl": "https://github.com/isXander/YetAnotherConfigLib/issues"
+      }
+    },
+    {
+      "filename": "rsls-1.4.0.jar",
+      "modId": "rsls",
+      "name": "Raise Sound Limit Simplified",
+      "version": "1.4.0",
+      "minecraftRequirement": "26.3",
+      "fabricApiRequirement": "not declared",
+      "license": "MIT",
+      "sourceUrl": "https://github.com/ishland/raise-sound-limit-simplified",
+      "homepage": "https://github.com/ishland/raise-sound-limit-simplified",
+      "sha256": "1400af5459156d0d8861714f61e1ab4c1e7167fa61527ed113b9151faef6a04d",
+      "size": 51298,
+      "custom": false,
+      "distributionReview": "MIT; preserve upstream license and notices when redistributing",
+      "source": {
+        "sha1": "60a95072fa946fa23eec1927b8370593e89d1fd8",
+        "status": 200,
+        "projectId": "SKW62Pht",
+        "versionId": "2sa9UZP2",
+        "version": "1.4.0",
+        "filename": "rsls-1.4.0.jar",
+        "url": "https://cdn.modrinth.com/data/SKW62Pht/versions/2sa9UZP2/rsls-1.4.0.jar",
+        "sha512": "f04fcfd29d52de8a60f5f24849ec90f32b97d6c8bc70ca37110ed5a8325976ef3b91b971653e169e1ad6bc2372dc08326e807d76ddb337430275c796961ed888",
+        "size": 51298,
+        "title": "Raise Sound Limit Simplified",
+        "slug": "rsls",
+        "license": {
+          "id": "MIT",
+          "name": "MIT License",
+          "url": null
+        },
+        "sourceUrl": "https://github.com/ishland/raise-sound-limit-simplified",
+        "issuesUrl": "https://github.com/ishland/raise-sound-limit-simplified/issues"
       }
     }
   ],
