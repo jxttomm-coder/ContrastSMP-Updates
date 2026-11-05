@@ -56,10 +56,9 @@ def build() -> None:
     logo.alpha_composite(mark, ((256 - mark.width) // 2, (64 - mark.height) // 2))
     logo.save(title / "minecraft.png")
 
+    # LoadingOverlay draws this texture above its backdrop; keep it empty so
+    # the banner drawn by the client mixin stays unobstructed.
     loading_logo = Image.new("RGBA", (120, 120), (0, 0, 0, 0))
-    mark = wordmark((116, 54))
-    for y in (3, 63):
-        loading_logo.alpha_composite(mark, ((120 - mark.width) // 2, y + (54 - mark.height) // 2))
     MOD_ASSETS.mkdir(parents=True, exist_ok=True)
     loading_logo.save(MOD_ASSETS / "brand_logo.png")
     Image.open(SOURCE_BANNER).convert("RGBA").save(MOD_ASSETS / "contrast_banner.png")
