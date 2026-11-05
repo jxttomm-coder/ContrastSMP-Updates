@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "packVersion": "0.1.1",
+  "packVersion": "0.1.2",
   "minecraftVersion": "26.3",
   "fabricLoaderVersion": "0.20.1",
   "files": [
@@ -362,11 +362,18 @@
       "size": 1125377
     },
     {
-      "name": "contrast-quick-exit-1.0.0.jar",
-      "version": "1.0.0",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.1.1/contrast-quick-exit-1.0.0.jar",
-      "sha256": "12a2c6db4cbdf6253aad37c09229f1fb293edf3399730bcd8c4d2f8378bec487",
-      "size": 1962
+      "name": "contrast-quick-exit-1.1.0.jar",
+      "version": "1.1.0",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.1.2/contrast-quick-exit-1.1.0.jar",
+      "sha256": "7c460878c030256048882b33af959034718a56f53d61b3c0a6afd088110c7cb0",
+      "size": 2731
+    },
+    {
+      "name": "rsls-1.4.0.jar",
+      "version": "1.4.0",
+      "url": "https://cdn.modrinth.com/data/SKW62Pht/versions/2sa9UZP2/rsls-1.4.0.jar",
+      "sha256": "1400af5459156d0d8861714f61e1ab4c1e7167fa61527ed113b9151faef6a04d",
+      "size": 51298
     }
   ],
   "resourcePacks": [

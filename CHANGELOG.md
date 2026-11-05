@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.2
+
+- Added Raise Sound Limit Simplified for Minecraft 26.3 Fabric, satisfying the optional recommendation from Sounds.
+- Removed the cancel control during direct Quick Play connection attempts.
+- Closed Minecraft if a failed or cancelled attempt returns to the title, multiplayer, or disconnect screen.
+- Kept closing Minecraft on server disconnect after a successful join.
+
 ## 0.1.1
 
 - Added Minecraft Quick Play so launching opens directly into Contrast SMP.

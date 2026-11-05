@@ -4,21 +4,21 @@ The public `manifest.json` in GitHub Releases defines the managed client content
 
 ## Release contents
 
-- 52 managed mod JARs, including the owner-developed `vyltrexsmpmod.jar` and `contrast-quick-exit-1.0.0.jar`.
+- 53 managed mod JARs, including the owner-developed `vyltrexsmpmod.jar` and `contrast-quick-exit-1.1.0.jar`.
 - 10 resource-pack ZIPs installed into the launcher's separate game profile.
 - Minecraft Quick Play joins Contrast SMP on startup; the client exits when the player disconnects.
 - The launcher window opens fullscreen and prevents dragging or context-saving its images.
 - SHA-256 and byte-size verification for every download.
 - Incremental updates with backups and rollback, while unrelated player files are preserved.
 
-The exact 50 third-party mod files and all 10 resource packs match their official Modrinth-published versions. They are downloaded from their original Modrinth CDN URLs. Several projects are All Rights Reserved or have special terms, so those files are referenced at their official hosts instead of being copied into this GitHub release. Only the owner-developed custom mod is attached here as a JAR. `source-verified.json` records the resolved sources and licenses; `source-inventory.json` records the supplied archive inventory.
+The 51 third-party mod files and all 10 resource packs match their official Modrinth-published versions. They are downloaded from their original Modrinth CDN URLs. Several projects are All Rights Reserved or have special terms, so those files are referenced at their official hosts instead of being copied into this GitHub release. The owner-developed mods are attached here as JARs. `source-verified.json` records the resolved sources and licenses; `source-inventory.json` records the supplied archive inventory.
 
 The 10 resource packs are installed separately in the profile's `resourcepacks` directory. Players can enable them in Minecraft's Resource Packs screen.
 
 ## Release files
 
 - `manifest.json`: launcher update manifest, attached to each release.
-- `vyltrexsmpmod.jar` and `contrast-quick-exit-1.0.0.jar`: owner-provided client mods, attached to the current release.
+- `vyltrexsmpmod.jar` and `contrast-quick-exit-1.1.0.jar`: owner-provided client mods, attached to the current release.
 - `source-inventory.json`: clean inventory from the original archive.
 - `source-verified.json`: exact source match, URLs, versions and license metadata.
 - `release-metadata.json`: repository and asset conventions.
