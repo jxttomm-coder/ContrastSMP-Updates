@@ -28,3 +28,6 @@ The launcher validates HTTPS URLs, downloads with retries, and verifies SHA-256 
 
 The 0.1.6 release includes the client-only CONTRAST SMP title menu helper. Launcher startup opens the branded menu; players choose Connect to Server to join. The address remains managed by the launcher.
 
+
+Release 0.1.7 fixes the Fabric metadata location in the client menu JAR and packages the supplied Contrast SMP artwork. The main menu's standard navigation buttons open the native Minecraft screens.
+

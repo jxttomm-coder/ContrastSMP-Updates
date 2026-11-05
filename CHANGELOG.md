@@ -50,3 +50,10 @@
 - Removed launcher quick-play auto-join; connection begins only after selecting Connect to Server in Minecraft.
 - Retained the managed server address and writes it to the client profile for the menu.
 
+
+## 0.1.7
+
+- Fixed Fabric metadata packaging so the custom client menu entrypoint is discovered in the managed Minecraft profile.
+- Replaced the menu background and logo with the supplied Contrast SMP Banner and Logo PNG files.
+- Added working Multiplayer, Singleplayer, Options, and Quit Game buttons alongside Connect to Server.
+

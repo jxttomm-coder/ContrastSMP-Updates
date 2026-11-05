@@ -11,8 +11,9 @@
   "thirdPartyDistribution": "download from each official Modrinth CDN URL in manifest.json",
   "ownerProvidedReleaseAssets": [
     "vyltrexsmpmod.jar",
-    "contrast-quick-exit-1.3.0.jar",
-    "manifest.json"
+    "contrast-quick-exit-1.3.1.jar",
+    "manifest.json",
+    "Contrast.SMP.Installer.exe"
   ],
   "resourcePacksInstalledTo": "managed game profile/resourcepacks",
   "customModId": "vyltrexsmpmod",
