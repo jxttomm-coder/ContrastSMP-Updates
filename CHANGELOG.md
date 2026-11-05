@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.3
+
+- Replaced slow graceful shutdown after multiplayer disconnect with immediate client exit, avoiding the Distant Horizons render-thread hang.
+- Added a Contrast SMP loading banner, branded title logo, and dark blue menu buttons.
+- Automatically enabled the managed Contrast SMP UI resource pack.
+- Launcher close and minimize modes now bring the launcher back when Minecraft exits.
+- Refreshed the visible mod count after the managed content synchronizes.
+
 ## 0.1.2
 
 - Added Raise Sound Limit Simplified for Minecraft 26.3 Fabric, satisfying the optional recommendation from Sounds.
