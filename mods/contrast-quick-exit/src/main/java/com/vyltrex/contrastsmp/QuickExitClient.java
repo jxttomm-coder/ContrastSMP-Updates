@@ -9,7 +9,6 @@ import net.minecraft.client.gui.screens.DisconnectedScreen;
 import net.minecraft.client.gui.screens.Screen;
 import net.minecraft.client.gui.screens.TitleScreen;
 import net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen;
-import net.minecraft.client.renderer.texture.SimpleTexture;
 import net.minecraft.network.chat.CommonComponents;
 import net.minecraft.resources.Identifier;
 
@@ -21,8 +20,6 @@ public final class QuickExitClient implements ClientModInitializer {
 
     @Override
     public void onInitializeClient() {
-        net.minecraft.client.Minecraft.getInstance().getTextureManager()
-            .registerAndLoad(BRAND_BANNER, new SimpleTexture(BRAND_BANNER));
         ClientPlayConnectionEvents.DISCONNECT.register((handler, client) -> exitAfterDisconnect());
         ScreenEvents.AFTER_INIT.register((client, screen, width, height) -> onScreenOpened(client, screen));
     }

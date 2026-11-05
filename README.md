@@ -4,7 +4,7 @@ The public `manifest.json` in GitHub Releases defines the managed client content
 
 ## Release contents
 
-- 53 managed mod JARs, including the owner-developed `vyltrexsmpmod.jar` and `contrast-quick-exit-1.2.0.jar`.
+- 53 managed mod JARs, including the owner-developed `vyltrexsmpmod.jar` and `contrast-quick-exit-1.2.1.jar`.
 - 11 resource-pack ZIPs installed into the launcher's separate game profile. The Contrast SMP UI pack is enabled automatically.
 - Minecraft Quick Play joins Contrast SMP on startup; the client exits immediately after disconnect to avoid a long mod shutdown hang.
 - A Contrast SMP banner appears during Minecraft's loading screen, with a branded title logo and dark blue menu buttons.
@@ -19,7 +19,7 @@ The resource packs are installed separately in the profile's `resourcepacks` dir
 ## Release files
 
 - `manifest.json`: launcher update manifest, attached to each release.
-- `vyltrexsmpmod.jar` and `contrast-quick-exit-1.2.0.jar`: owner-provided client mods, attached to the current release.
+- `vyltrexsmpmod.jar` and `contrast-quick-exit-1.2.1.jar`: owner-provided client mods, attached to the current release.
 - `Contrast SMP UI.zip`: branded menu and button resource pack, attached to the current release.
 - `source-inventory.json`: clean inventory from the original archive.
 - `source-verified.json`: exact source match, URLs, versions and license metadata.

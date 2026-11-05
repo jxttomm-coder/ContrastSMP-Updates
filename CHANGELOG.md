@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.4
+
+- Fixed a startup crash caused by registering the loading banner before Minecraft creates its texture manager.
+- Registers the banner lazily on the first loading-screen render instead.
+
 ## 0.1.3
 
 - Replaced slow graceful shutdown after multiplayer disconnect with immediate client exit, avoiding the Distant Horizons render-thread hang.
