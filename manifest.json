@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "packVersion": "0.1.0",
+  "packVersion": "0.1.1",
   "minecraftVersion": "26.3",
   "fabricLoaderVersion": "0.20.1",
   "files": [
@@ -343,7 +343,7 @@
     {
       "name": "vyltrexsmpmod.jar",
       "version": "1.0.0",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.1.0/vyltrexsmpmod.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.1.1/vyltrexsmpmod.jar",
       "sha256": "c6e5f6bbd3fd32222d1b17749bc9e97bbd4ceec6adc28b28c4b4c11c37c6587d",
       "size": 59653
     },
@@ -360,6 +360,13 @@
       "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/s9SjoFu1/yet_another_config_lib_v3-3.9.7%2B26.3-fabric.jar",
       "sha256": "c52d41d444522d9abba994cd4c4ee2e71a065d7c31010f92a9959b80ccb4b0f5",
       "size": 1125377
+    },
+    {
+      "name": "contrast-quick-exit-1.0.0.jar",
+      "version": "1.0.0",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.1.1/contrast-quick-exit-1.0.0.jar",
+      "sha256": "12a2c6db4cbdf6253aad37c09229f1fb293edf3399730bcd8c4d2f8378bec487",
+      "size": 1962
     }
   ],
   "resourcePacks": [

@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.1
+
+- Added Minecraft Quick Play so launching opens directly into Contrast SMP.
+- Resolved the server's SRV endpoint and port automatically for direct join.
+- Added a client mod that closes Minecraft after disconnecting from the server.
+- Installed the managed resource packs and updated the managed mod list to 52 entries.
+- Opened the launcher fullscreen and blocked dragging or context-saving launcher images.
+
 ## 0.1.0
 
 - Published 51 managed Minecraft 26.3 / Fabric 0.20.1 mod entries.
