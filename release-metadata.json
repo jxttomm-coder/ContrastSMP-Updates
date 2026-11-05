@@ -8,6 +8,8 @@
   "releaseTagPattern": "v{packVersion}",
   "assetUrlPattern": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/{tag}/{filename}",
   "githubOwnerRequired": false,
-  "thirdPartyRedistributionReviewRequired": true,
+  "thirdPartyDistribution": "download from each official Modrinth CDN URL in manifest.json",
+  "ownerProvidedReleaseAssets": ["vyltrexsmpmod.jar", "manifest.json"],
+  "resourcePacksInstalledTo": "managed game profile/resourcepacks",
   "customModId": "vyltrexsmpmod"
 }

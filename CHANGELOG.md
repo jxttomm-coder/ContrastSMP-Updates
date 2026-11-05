@@ -1,9 +1,10 @@
 # Changelog
 
-## 0.1.0-draft
+## 0.1.0
 
-- Recorded 51 unique clean candidate JARs for Minecraft 26.3.
-- Removed three byte-for-byte duplicate archive entries from the clean inventory.
-- Selected Fabric API 0.165.0+26.3. The declared minimums in the collection range from 0.155.0 through 0.161.0+26.3; 0.165.0 satisfies each stated minimum. The older 0.161.0+26.3 artifact is excluded.
-- Preserved the owner-developed `vyltrexsmpmod` candidate and its hash.
-- Created the public GitHub repository; mod release remains unpublished pending verified official download URLs and redistribution terms.
+- Published 51 managed Minecraft 26.3 / Fabric 0.20.1 mod entries.
+- Included the owner-provided `vyltrexsmpmod.jar` in the GitHub Release.
+- Added 10 separately managed resource-pack downloads.
+- Verified the 50 third-party mod JARs and 10 resource packs against their official Modrinth version hashes, sizes, and direct HTTPS download sources.
+- Excluded three exact duplicate JAR entries and the superseded Fabric API 0.161.0 artifact; kept Fabric API 0.165.0.
+- Third-party files remain served by their official publishers to respect their distribution terms.
