@@ -25,3 +25,6 @@ The resource packs are installed separately in the profile's `resourcepacks` dir
 - `CHANGELOG.md`: modpack release history.
 
 The launcher validates HTTPS URLs, downloads with retries, and verifies SHA-256 plus file size before installing. Mods and resource packs have separate managed folders and ownership state.
+
+The 0.1.6 release includes the client-only CONTRAST SMP title menu helper. Launcher startup opens the branded menu; players choose Connect to Server to join. The address remains managed by the launcher.
+

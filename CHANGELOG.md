@@ -43,3 +43,10 @@
 - Verified the 50 third-party mod JARs and 10 resource packs against their official Modrinth version hashes, sizes, and direct HTTPS download sources.
 - Excluded three exact duplicate JAR entries and the superseded Fabric API 0.161.0 artifact; kept Fabric API 0.165.0.
 - Third-party files remain served by their official publishers to respect their distribution terms.
+
+## 0.1.6
+
+- Replaced the quick-exit-only client helper with the CONTRAST SMP custom main menu for Minecraft 26.3.
+- Removed launcher quick-play auto-join; connection begins only after selecting Connect to Server in Minecraft.
+- Retained the managed server address and writes it to the client profile for the menu.
+
