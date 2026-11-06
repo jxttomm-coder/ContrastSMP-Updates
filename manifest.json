@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "packVersion": "0.1.11",
+  "packVersion": "0.1.12",
   "minecraftVersion": "26.3",
   "fabricLoaderVersion": "0.20.1",
   "files": [
@@ -376,11 +376,11 @@
       "size": 3686
     },
     {
-      "name": "ContrastSMP-Gear-Fabric-26.3.jar",
+      "name": "ContrastSMP-Speedy-Walk-Fabric-26.3.jar",
       "version": "1.0.0",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.1.11/ContrastSMP-Gear-Fabric-26.3.jar",
-      "sha256": "fb53e9d6669cc21f890ffbd8c193f303097d9ddf465ebfd4538ac5b4c7d7c02e",
-      "size": 15207
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.1.12/ContrastSMP-Speedy-Walk-Fabric-26.3.jar",
+      "sha256": "1c257523c55069578d5e1997551dc96070b16427d8767b03664392bb390da75d",
+      "size": 11022
     }
   ],
   "resourcePacks": [

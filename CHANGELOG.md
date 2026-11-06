@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.12
+
+- Removed the Contrast Gear file from the managed modpack.
+- Replaced it with the supplied Contrast SMP Speedy Walk JAR; managed launcher profiles remove the obsolete Gear JAR on sync.
+
 ## 0.1.11
 
 - Replaced the Contrast Gear managed download with the latest supplied JAR build.

@@ -4,7 +4,7 @@ The public `manifest.json` in GitHub Releases defines the managed client content
 
 ## Release contents
 
-- 54 managed mod JARs, including Contrast Gear 1.0.0, the owner-developed `vyltrexsmpmod.jar`, and the quick-exit-only `contrast-quick-exit-1.3.3.jar`.
+- 54 managed mod JARs, including Contrast SMP Speedy Walk 1.0.0, the owner-developed `vyltrexsmpmod.jar`, and the quick-exit-only `contrast-quick-exit-1.3.3.jar`.
 - 10 resource-pack ZIPs installed into the launcher's separate game profile.
 - Minecraft Quick Play joins Contrast SMP on startup; the client exits immediately after disconnect to avoid a long mod shutdown hang.
 - The launcher window opens fullscreen and prevents dragging or context-saving its images.
@@ -18,7 +18,7 @@ The resource packs are installed separately in the profile's `resourcepacks` dir
 ## Release files
 
 - `manifest.json`: launcher update manifest, attached to each release.
-- `vyltrexsmpmod.jar`, `contrast-quick-exit-1.3.3.jar`, and `ContrastSMP-Gear-Fabric-26.3.jar`: owner-provided mods, attached to their release.
+- `vyltrexsmpmod.jar`, `contrast-quick-exit-1.3.3.jar`, and `ContrastSMP-Speedy-Walk-Fabric-26.3.jar`: owner-provided mods, attached to their release.
 - `source-inventory.json`: clean inventory from the original archive.
 - `source-verified.json`: exact source match, URLs, versions and license metadata.
 - `release-metadata.json`: repository and asset conventions.
@@ -26,5 +26,5 @@ The resource packs are installed separately in the profile's `resourcepacks` dir
 
 The launcher validates HTTPS URLs, downloads with retries, and verifies SHA-256 plus file size before installing. Mods and resource packs have separate managed folders and ownership state.
 
-The latest release, v0.1.11, refreshes the Contrast Gear JAR with the newest supplied build. It is marked for client and server environments and depends on Fabric API. v0.1.8 restored the normal Minecraft interface and the earlier direct-join flow. The launcher resolves the configured server endpoint for Minecraft Quick Play; the client helper preserves the quick-exit behavior after disconnect. The custom title-menu mod and artwork are no longer in the managed modpack.
+The latest release, v0.1.12, removes Contrast Gear from the managed file list and replaces it with the supplied Speedy Walk JAR. It is marked for client and server environments and depends on Fabric API. v0.1.8 restored the normal Minecraft interface and the earlier direct-join flow. The launcher resolves the configured server endpoint for Minecraft Quick Play; the client helper preserves the quick-exit behavior after disconnect. The custom title-menu mod and artwork are no longer in the managed modpack.
 
