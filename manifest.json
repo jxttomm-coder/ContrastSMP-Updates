@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "packVersion": "0.1.10",
+  "packVersion": "0.1.11",
   "minecraftVersion": "26.3",
   "fabricLoaderVersion": "0.20.1",
   "files": [
@@ -378,9 +378,9 @@
     {
       "name": "ContrastSMP-Gear-Fabric-26.3.jar",
       "version": "1.0.0",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.1.10/ContrastSMP-Gear-Fabric-26.3.jar",
-      "sha256": "2a60ffb6cecb5dadb2a1920650aab83555c21d96cc2a90a420f92a9be150e7b6",
-      "size": 15236
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.1.11/ContrastSMP-Gear-Fabric-26.3.jar",
+      "sha256": "fb53e9d6669cc21f890ffbd8c193f303097d9ddf465ebfd4538ac5b4c7d7c02e",
+      "size": 15207
     }
   ],
   "resourcePacks": [

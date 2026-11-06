@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.11
+
+- Replaced the Contrast Gear managed download with the latest supplied JAR build.
+- Updated its SHA-256 and byte size so existing launcher profiles replace the prior build on sync.
+
 ## 0.1.10
 
 - Replaced the Contrast Gear 1.0.0 download with the updated JAR build and checksum.
