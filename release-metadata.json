@@ -12,11 +12,11 @@
   "ownerProvidedReleaseAssets": [
     "vyltrexsmpmod.jar",
     "contrast-quick-exit-1.3.3.jar",
-    "manifest.json",
-    "Contrast.SMP.Installer.exe"
+    "Contrast.SMP.Installer.exe",
+    "ContrastSMP-Gear-Fabric-26.3.jar",
+    "manifest.json"
   ],
   "resourcePacksInstalledTo": "managed game profile/resourcepacks",
   "customModId": "vyltrexsmpmod",
   "quickExitModId": "contrast-quick-exit"
 }
-

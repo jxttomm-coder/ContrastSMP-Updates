@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.9
+
+- Added Contrast Gear Fabric 1.0.0 for Minecraft 26.3 to launcher-managed mods.
+- Launcher verifies the mod download by SHA-256 and installs it with the managed client pack.
+- The server also needs this mod installed for its registered gear items and server tick behavior.
+
 ## 0.1.8
 
 - Restored the normal Minecraft title screen and the pre-menu direct-join behavior.
