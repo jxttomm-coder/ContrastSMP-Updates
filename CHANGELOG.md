@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.10
+
+- Replaced the Contrast Gear 1.0.0 download with the updated JAR build and checksum.
+- Existing launcher profiles update the managed file when they sync the latest manifest.
+
 ## 0.1.9
 
 - Added Contrast Gear Fabric 1.0.0 for Minecraft 26.3 to launcher-managed mods.

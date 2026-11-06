@@ -26,5 +26,5 @@ The resource packs are installed separately in the profile's `resourcepacks` dir
 
 The launcher validates HTTPS URLs, downloads with retries, and verifies SHA-256 plus file size before installing. Mods and resource packs have separate managed folders and ownership state.
 
-The latest release, v0.1.9, adds Contrast Gear 1.0.0 to the managed modpack. It is marked for client and server environments and depends on Fabric API. v0.1.8 restored the normal Minecraft interface and the earlier direct-join flow. The launcher resolves the configured server endpoint for Minecraft Quick Play; the client helper preserves the quick-exit behavior after disconnect. The custom title-menu mod and artwork are no longer in the managed modpack.
+The latest release, v0.1.10, refreshes the Contrast Gear 1.0.0 JAR. It is marked for client and server environments and depends on Fabric API. v0.1.8 restored the normal Minecraft interface and the earlier direct-join flow. The launcher resolves the configured server endpoint for Minecraft Quick Play; the client helper preserves the quick-exit behavior after disconnect. The custom title-menu mod and artwork are no longer in the managed modpack.
 
