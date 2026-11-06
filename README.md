@@ -4,7 +4,7 @@ The public `manifest.json` in GitHub Releases defines the managed client content
 
 ## Release contents
 
-- 53 managed mod JARs, including the owner-developed `vyltrexsmpmod.jar` and `contrast-quick-exit-1.2.2.jar`.
+- 53 managed mod JARs, including the owner-developed `vyltrexsmpmod.jar` and the quick-exit-only `contrast-quick-exit-1.3.3.jar`.
 - 10 resource-pack ZIPs installed into the launcher's separate game profile.
 - Minecraft Quick Play joins Contrast SMP on startup; the client exits immediately after disconnect to avoid a long mod shutdown hang.
 - The launcher window opens fullscreen and prevents dragging or context-saving its images.
@@ -18,7 +18,7 @@ The resource packs are installed separately in the profile's `resourcepacks` dir
 ## Release files
 
 - `manifest.json`: launcher update manifest, attached to each release.
-- `vyltrexsmpmod.jar` and `contrast-quick-exit-1.2.2.jar`: owner-provided client mods, attached to the current release.
+- `vyltrexsmpmod.jar` and `contrast-quick-exit-1.3.3.jar`: owner-provided client mods, attached to the current release.
 - `source-inventory.json`: clean inventory from the original archive.
 - `source-verified.json`: exact source match, URLs, versions and license metadata.
 - `release-metadata.json`: repository and asset conventions.
@@ -26,8 +26,5 @@ The resource packs are installed separately in the profile's `resourcepacks` dir
 
 The launcher validates HTTPS URLs, downloads with retries, and verifies SHA-256 plus file size before installing. Mods and resource packs have separate managed folders and ownership state.
 
-The 0.1.6 release includes the client-only CONTRAST SMP title menu helper. Launcher startup opens the branded menu; players choose Connect to Server to join. The address remains managed by the launcher.
-
-
-Release 0.1.7 fixes the Fabric metadata location in the client menu JAR and packages the supplied Contrast SMP artwork. The main menu's standard navigation buttons open the native Minecraft screens.
+The latest release, v0.1.8, restores the normal Minecraft interface and the earlier direct-join flow. The launcher resolves the configured server endpoint for Minecraft Quick Play; the client helper preserves the quick-exit behavior after disconnect. The custom title-menu mod and artwork are no longer in the managed modpack.
 

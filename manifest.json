@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "packVersion": "0.1.7",
+  "packVersion": "0.1.8",
   "minecraftVersion": "26.3",
   "fabricLoaderVersion": "0.20.1",
   "files": [
@@ -369,11 +369,11 @@
       "size": 51298
     },
     {
-      "name": "contrast-quick-exit-1.3.1.jar",
-      "version": "1.3.1",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.1.7/contrast-quick-exit-1.3.1.jar",
-      "sha256": "10e200e8a71bb94e6c332ca2e778e2bcf89733dfb3eb7c3a90aa32c0b479798a",
-      "size": 1735478
+      "name": "contrast-quick-exit-1.3.3.jar",
+      "version": "1.3.3",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.1.8/contrast-quick-exit-1.3.3.jar",
+      "sha256": "cee20db16d3aec976c2184837a163e6dd04013127ea46a16352b7ce08fe25c53",
+      "size": 3686
     }
   ],
   "resourcePacks": [

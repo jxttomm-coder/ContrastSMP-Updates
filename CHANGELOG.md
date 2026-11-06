@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.8
+
+- Restored the normal Minecraft title screen and the pre-menu direct-join behavior.
+- Replaced the custom title-menu mod with the quick-exit-only helper.
+- Preserved launcher-managed server configuration, modpack updates, and resource packs.
+
 ## 0.1.5
 
 - Restored Minecraft's original loading screen, title logo, and button artwork.
