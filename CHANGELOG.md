@@ -1,5 +1,12 @@
 # Contrast SMP Season 2 updates
 
+## v0.3.0 — Add Create Ore Excavation
+
+- Add Create Ore Excavation 1.6.6 and its GeckoLib 4.8.4 dependency to client and server manifests.
+- Publish both supplied Forge JARs and a quick server import ZIP.
+- Update the launcher mod list for the two additions.
+- Keep the pack on Minecraft 1.20.1 / Forge 47.4.28.
+
 ## v0.2.0 — Season 2 Forge launch
 
 - Move the managed profile from Minecraft 26.3 / Fabric to Minecraft 1.20.1 / Forge 47.4.28.

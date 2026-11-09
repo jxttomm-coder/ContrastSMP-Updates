@@ -7,7 +7,7 @@
     "serverManifestAsset": "server-mods.json",
     "serverManifestUrl": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/latest/download/server-mods.json"
   },
-  "releaseTag": "v0.2.0",
+  "releaseTag": "v0.3.0",
   "minecraftVersion": "1.20.1",
   "forgeLoaderVersion": "47.4.28",
   "season": 2,
@@ -15,6 +15,9 @@
   "ownerProvidedReleaseAssets": [
     "ContrastSMP-Season2-Ore-Boost-1.0.0.jar",
     "ContrastSMP-Season2-Underground-Control-1.0.0.jar",
+    "createoreexcavation-1.20-1.6.6.jar",
+    "geckolib-forge-1.20.1-4.8.4.jar",
+    "Create-Ore-Excavation-Server-Mods.zip",
     "Contrast.SMP.Installer.exe",
     "manifest.json",
     "server-mods.json",
@@ -22,5 +25,6 @@
   ],
   "resourcePacksInstalledTo": "managed game profile/resourcepacks",
   "customServerMods": ["contrast_s2_ores", "contrast_s2_underground"],
+  "additionalOwnerProvidedMods": ["createoreexcavation 1.6.6", "geckolib 4.8.4"],
   "trialChambersBackport": "Trials Chambers 2.3.4 (official CurseForge download)"
 }
