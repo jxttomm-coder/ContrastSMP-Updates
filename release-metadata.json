@@ -7,13 +7,13 @@
     "serverManifestAsset": "server-mods.json",
     "serverManifestUrl": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/latest/download/server-mods.json"
   },
-  "releaseTag": "v0.3.1",
+  "releaseTag": "v0.3.2",
   "minecraftVersion": "1.20.1",
   "forgeLoaderVersion": "47.4.28",
   "season": 2,
   "thirdPartyDistribution": "download from official Modrinth CDN or CurseForge API URLs; do not mirror third-party files",
   "ownerProvidedReleaseAssets": [
-    "ContrastSMP-Season2-Ore-Boost-1.0.0.jar",
+    "ContrastSMP-Season2-Ore-Boost-1.0.1.jar",
     "ContrastSMP-Season2-Underground-Control-1.0.0.jar",
     "createoreexcavation-1.20-1.6.6.jar",
     "geckolib-forge-1.20.1-4.8.4.jar",

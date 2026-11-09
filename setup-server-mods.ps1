@@ -12,6 +12,21 @@ try {
     }
     New-Item -ItemType Directory -Path $modsDirectory -Force | Out-Null
 
+    # The fixed ore mod has a new versioned filename; preserve the broken version before updating.
+    $managedNames = @($manifest.files | ForEach-Object { $_.name })
+    $obsoleteManagedMods = @('ContrastSMP-Season2-Ore-Boost-1.0.0.jar')
+    foreach ($oldName in $obsoleteManagedMods) {
+        if ($managedNames -notcontains $oldName) {
+            $oldTarget = Join-Path $modsDirectory $oldName
+            if (Test-Path -LiteralPath $oldTarget) {
+                $backupDirectory = Join-Path $modsDirectory '.contrast-season2-backups'
+                New-Item -ItemType Directory -Path $backupDirectory -Force | Out-Null
+                Move-Item -LiteralPath $oldTarget -Destination (Join-Path $backupDirectory ($oldName + '.' + (Get-Date -Format 'yyyyMMddHHmmss') + '.bak'))
+                Write-Output "Backed up obsolete mod: $oldName"
+            }
+        }
+    }
+
     foreach ($file in $manifest.files) {
         if ($file.name -notmatch '^[A-Za-z0-9 _().+@-]{1,180}\.jar$' -or
             $file.url -notmatch '^https://' -or $file.sha256 -notmatch '^[a-fA-F0-9]{64}$' -or

@@ -1,5 +1,10 @@
 # Contrast SMP Season 2 updates
 
+## v0.3.2 — Fix ore boost datapack counts
+
+- Split Emerald and upper iron placement counts into multiple legal count modifiers, preserving 7× emerald and 5× ore attempts without exceeding Minecraft's 256 per-modifier limit.
+- Publish Ore Boost mod version 1.0.1 and refresh the client and server manifests.
+
 ## v0.3.1 — Fix Trial Chambers manifest checksum
 
 - Correct the Trial Chambers backport SHA-256 to its full 64-character value so the launcher accepts and verifies the JAR.
