@@ -1,5 +1,10 @@
 # Contrast SMP Season 2 updates
 
+## v0.3.1 — Fix Trial Chambers manifest checksum
+
+- Correct the Trial Chambers backport SHA-256 to its full 64-character value so the launcher accepts and verifies the JAR.
+- Republish the latest launcher manifests and release assets.
+
 ## v0.3.0 — Add Create Ore Excavation
 
 - Add Create Ore Excavation 1.6.6 and its GeckoLib 4.8.4 dependency to client and server manifests.

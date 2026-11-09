@@ -1,5 +1,5 @@
 {
-  "packVersion": "0.3.0",
+  "packVersion": "0.3.1",
   "minecraftVersion": "1.20.1",
   "forgeLoaderVersion": "47.4.28",
   "verifiedArtifacts": [
@@ -142,7 +142,7 @@
     {
       "name": "ContrastSMP-Season2-Ore-Boost-1.0.0.jar",
       "version": "1.0.0",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.3.0/ContrastSMP-Season2-Ore-Boost-1.0.0.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.3.1/ContrastSMP-Season2-Ore-Boost-1.0.0.jar",
       "sha256": "fe69efda57e61bcc9356df24abb2240bdaaf2f3006e19a65d745b7d2932c2831",
       "size": 14171,
       "source": "GitHub Release (owner-provided)"
@@ -150,7 +150,7 @@
     {
       "name": "ContrastSMP-Season2-Underground-Control-1.0.0.jar",
       "version": "1.0.0",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.3.0/ContrastSMP-Season2-Underground-Control-1.0.0.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.3.1/ContrastSMP-Season2-Underground-Control-1.0.0.jar",
       "sha256": "4affb55b2a4bb7095ba591b82da4452697a6ce3b0d80deb244e2ca79c424e2ac",
       "size": 7956,
       "source": "GitHub Release (owner-provided)"
@@ -182,7 +182,7 @@
     {
       "name": "createoreexcavation-1.20-1.6.6.jar",
       "version": "1.6.6",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.3.0/createoreexcavation-1.20-1.6.6.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.3.1/createoreexcavation-1.20-1.6.6.jar",
       "sha256": "f371ed9558064d299896c3ca3464ac863243c3c60e71fb8ec0e3eb1744e9a871",
       "size": 431227,
       "source": "Modrinth CDN"
@@ -286,7 +286,7 @@
     {
       "name": "geckolib-forge-1.20.1-4.8.4.jar",
       "version": "4.8.4",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.3.0/geckolib-forge-1.20.1-4.8.4.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.3.1/geckolib-forge-1.20.1-4.8.4.jar",
       "sha256": "4518779a31b6c2abb92c98b5ad17ef3d60177df68626bfc86c44de2764913c2b",
       "size": 1038209,
       "source": "Modrinth CDN"
@@ -567,7 +567,7 @@
       "name": "Trials-2.3.4.jar",
       "version": "2.3.4",
       "url": "https://www.curseforge.com/api/v1/mods/1395592/files/7280470/download",
-      "sha256": "b4c541d37d34f517ae98fb1438c3b5e882f73681fbd6649b35220555702e05a",
+      "sha256": "b4c541d37d34f5171ae98fb1438c3b5e882f73681fbd6649b35220555702e05a",
       "size": 8337747,
       "source": "CurseForge official download"
     },
