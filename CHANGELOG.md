@@ -1,5 +1,10 @@
 # Contrast SMP Season 2 updates
 
+## v0.3.3 — Fix Forge metadata URL in launcher
+
+- Pass Forge's full Maven version (`1.20.1-47.4.28`) to the launcher library so it requests the correct Forge metadata and installer artifact.
+- Publish Contrast SMP Launcher 2.6.2.
+
 ## v0.3.2 — Fix ore boost datapack counts
 
 - Split Emerald and upper iron placement counts into multiple legal count modifiers, preserving 7× emerald and 5× ore attempts without exceeding Minecraft's 256 per-modifier limit.
