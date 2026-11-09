@@ -15,7 +15,7 @@
   "ownerProvidedReleaseAssets": [
     "ContrastSMP-Season2-Ore-Boost-1.0.0.jar",
     "ContrastSMP-Season2-Underground-Control-1.0.0.jar",
-    "Contrast SMP Installer.exe",
+    "Contrast.SMP.Installer.exe",
     "manifest.json",
     "server-mods.json",
     "setup-server-mods.ps1"
