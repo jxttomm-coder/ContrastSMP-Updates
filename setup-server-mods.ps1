@@ -24,7 +24,7 @@ try {
     }
 
     foreach ($file in $manifest.files) {
-        if ($file.name -notmatch '^[A-Za-z0-9 _().+@-]{1,180}\.jar$' -or
+        if ($file.name -notmatch '^[A-Za-z0-9 _().+@\[\]-]{1,180}\.jar$' -or
             $file.url -notmatch '^https://' -or $file.sha256 -notmatch '^[a-fA-F0-9]{64}$' -or
             $file.size -lt 1 -or $file.size -gt 300MB) {
             throw "The server manifest contains an invalid entry: $($file.name)"
