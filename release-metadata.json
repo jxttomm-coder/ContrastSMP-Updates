@@ -23,7 +23,7 @@
       "Ponder-Forge-1.20.1-1.0.91.jar"
     ]
   },
-  "launcherInstallerAsset": "Contrast SMP Installer.exe",
+  "launcherInstallerAsset": "Contrast.SMP.Installer.exe",
   "resourcePacks": "disabled; no packs are shipped by the client release",
   "serverDeployment": "The existing Forge server set is listed separately in server-mods.json."
 }
