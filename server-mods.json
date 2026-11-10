@@ -1,5 +1,5 @@
 {
-  "packVersion": "0.4.3",
+  "packVersion": "0.4.4",
   "minecraftVersion": "1.20.1",
   "forgeLoaderVersion": "47.4.28",
   "files": [
@@ -121,6 +121,13 @@
       "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.1/druids-forge-1.3+1.20.1.jar",
       "sha256": "b2eb8c44f632dbc414884195bada99b8f289d5176926425d264e1de7aa609609",
       "size": 450824
+    },
+    {
+      "name": "dynamic-light-0.3.jar",
+      "version": "0.3",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.4/dynamic-light-0.3.jar",
+      "sha256": "5d8b8619a45703f4a72e292f03ac4eb6be646994dfd35439fe0b234ccdeded2c",
+      "size": 12429
     },
     {
       "name": "elemental_wizards_rpg-forge-3.1.1+1.20.1.jar",
@@ -254,6 +261,13 @@
       "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/rogues-forge-3.1.3+1.20.1.jar",
       "sha256": "71ce1f69f885a2c2b3f095d92b0caf01237da07db93b4423f977103d151deb71",
       "size": 1761703
+    },
+    {
+      "name": "runes-forge-1.3.2+1.20.1.jar",
+      "version": "1.3.2",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.4/runes-forge-1.3.2+1.20.1.jar",
+      "sha256": "744c4a2d660a2cb2c109f7fe9bad3b55a19555d2f90423fcd34c0748214ba1ca",
+      "size": 355981
     },
     {
       "name": "shield_api-forge-2.2.0+1.20.1.jar",

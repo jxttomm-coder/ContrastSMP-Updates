@@ -1,5 +1,5 @@
 {
-  "releaseTag": "v0.4.0",
+  "releaseTag": "v0.4.4",
   "minecraftVersion": "1.20.1",
   "forgeLoaderVersion": "47.4.28",
   "inputArchive": "Mod.zip",
@@ -306,6 +306,22 @@
       "version": "3.1.2",
       "size": 4522796,
       "sha256": "4fa7fecb940f75e949f1ef8f7e3b3785da52d0cdccfad019d3097a0fdf56bd13"
+    }
+  ],
+  "userAddedArtifacts": [
+    {
+      "name": "dynamic-light-0.3.jar",
+      "version": "0.3",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.4/dynamic-light-0.3.jar",
+      "sha256": "5d8b8619a45703f4a72e292f03ac4eb6be646994dfd35439fe0b234ccdeded2c",
+      "size": 12429
+    },
+    {
+      "name": "runes-forge-1.3.2+1.20.1.jar",
+      "version": "1.3.2",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.4/runes-forge-1.3.2+1.20.1.jar",
+      "sha256": "744c4a2d660a2cb2c109f7fe9bad3b55a19555d2f90423fcd34c0748214ba1ca",
+      "size": 355981
     }
   ]
 }
