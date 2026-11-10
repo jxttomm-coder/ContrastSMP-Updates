@@ -1,3 +1,10 @@
+## v0.4.0 — Supplied Forge modpack
+
+- Replace the client manifest with the 45 JARs in `Mod.zip` plus required Architectury and Wizards libraries.
+- Keep Create's embedded Flywheel and Ponder libraries without duplicate downloads.
+- Remove resource-pack installation and disable both local and server-provided packs.
+- Make the isolated launcher profile remove obsolete and extra mod JARs.
+- Refresh the launcher dashboard and release the 2.7.0 Windows installer.
 # Contrast SMP Season 2 updates
 
 ## v0.3.4 — Add NukaTeam's Gun Lib

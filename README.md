@@ -1,13 +1,7 @@
-# Contrast SMP Season 2
+# Contrast SMP Season 2 client pack
 
-Season 2 uses Minecraft 1.20.1 with Forge 47.4.28. The launcher reads `manifest.json`, installs the client mod list and seven supplied resource packs, and validates downloads with SHA-256.
+This repository hosts the Forge 1.20.1 client manifest used by Contrast SMP Launcher. Release `v0.4.0` contains the 45 JARs from the supplied `Mod.zip` and two standalone libraries required by those mods. Create 6.0.8 already embeds Flywheel and Ponder, so those libraries are not duplicated.
 
-The Forge server list is in `server-mods.json`. `setup-server-mods.ps1` installs those files into an existing server's `mods` folder from their official download hosts.
+The launcher validates every file by expected byte size and SHA-256 before installing it. It removes other mod JARs from its isolated game profile and keeps local and server resource packs disabled.
 
-## Owner-developed server mods
-
-- `season2-ore-boost` 1.0.1: multiplies vanilla ore placement attempts by 5 and emerald attempts by 7 for new chunks. This includes ancient debris (netherite ore), quartz, and nether gold. Large totals use multiple legal count placements to stay within Minecraft's 256-value limit.
-- `season2-underground-control`: disables vanilla mineshafts, ancient cities, buried treasure, Nether fossils, dungeons, and amethyst geodes for new chunks. It leaves strongholds available and does not override the Trial Chambers backport.
-- `Trials-2.3.4.jar` is the Forge backport used to provide Trial Chambers on Minecraft 1.20.1. Its official CurseForge download is referenced in the manifests, not mirrored here.
-
-Install both Contrast SMP mods, the Trial Chambers backport, and every entry from `server-mods.json` on the server. The two Contrast SMP mods also need to be installed in the client profile.
+The Forge server deployment set remains documented in `server-mods.json` and `setup-server-mods.ps1`; it is maintained separately from the supplied client archive.
