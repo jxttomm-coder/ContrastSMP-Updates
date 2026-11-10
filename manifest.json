@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "packVersion": "0.4.1",
+  "packVersion": "0.4.2",
   "minecraftVersion": "1.20.1",
   "forgeLoaderVersion": "47.4.28",
   "files": [
@@ -108,6 +108,13 @@
       "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/collective-1.20.1-8.85.jar",
       "sha256": "10a268582f1c5d621eeda87727706fdd5ad2edc148aded7e2943f4f1857454b3",
       "size": 1124626
+    },
+    {
+      "name": "contrast-quick-exit-forge-1.0.0.jar",
+      "version": "1.0.0",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.2/contrast-quick-exit-forge-1.0.0.jar",
+      "sha256": "920b7e4359c1d05c8ef8cf258270bcc13ffb24bd3b316a3149d60e559be5e3bb",
+      "size": 3216
     },
     {
       "name": "create-1.20.1-6.0.8.jar",
