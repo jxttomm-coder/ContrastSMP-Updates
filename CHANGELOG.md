@@ -1,5 +1,10 @@
 # Contrast SMP Season 2 updates
 
+## v0.3.4 — Add NukaTeam's Gun Lib
+
+- Add NTGL 3.1.2 for Forge 1.20.1 to the client and server manifests.
+- Update the launcher mod list and publish the supplied LGPL-licensed JAR.
+
 ## v0.3.3 — Fix Forge metadata URL in launcher
 
 - Pass Forge's full Maven version (`1.20.1-47.4.28`) to the launcher library so it requests the correct Forge metadata and installer artifact.

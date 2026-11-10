@@ -7,7 +7,7 @@
     "serverManifestAsset": "server-mods.json",
     "serverManifestUrl": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/latest/download/server-mods.json"
   },
-  "releaseTag": "v0.3.3",
+  "releaseTag": "v0.3.4",
   "minecraftVersion": "1.20.1",
   "forgeLoaderVersion": "47.4.28",
   "season": 2,
@@ -17,6 +17,7 @@
     "ContrastSMP-Season2-Underground-Control-1.0.0.jar",
     "createoreexcavation-1.20-1.6.6.jar",
     "geckolib-forge-1.20.1-4.8.4.jar",
+    "ntgl-1.20.1-3.1.2.jar",
     "Create-Ore-Excavation-Server-Mods.zip",
     "Contrast.SMP.Installer.exe",
     "manifest.json",
