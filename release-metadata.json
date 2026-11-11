@@ -7,7 +7,7 @@
     "serverManifestAsset": "server-mods.json",
     "serverManifestUrl": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/latest/download/server-mods.json"
   },
-  "releaseTag": "v0.4.4",
+  "releaseTag": "v0.4.5",
   "minecraftVersion": "1.20.1",
   "forgeLoaderVersion": "47.4.28",
   "season": 2,
@@ -47,6 +47,27 @@
       "source": "user-provided JAR",
       "sides": "client and dedicated server",
       "sha256": "744c4a2d660a2cb2c109f7fe9bad3b55a19555d2f90423fcd34c0748214ba1ca"
+    },
+    {
+      "name": "BetterF3-7.0.2-Forge-1.20.1.jar",
+      "version": "7.0.2",
+      "source": "user-provided JAR",
+      "sides": "client-only",
+      "sha256": "e46ced73bdf78a59573a7188cfbe7256353f21a67eef752dc39b5e5816fc61c0"
+    },
+    {
+      "name": "better_smithing_table-forge-2.2.1+1.20.jar",
+      "version": "2.2.1",
+      "source": "user-provided JAR",
+      "sides": "client-only",
+      "sha256": "366a41a1de0713c6baa6acb4c08d1d6c061d1a4cdf9315e608dd0f3b94f44d9b"
+    },
+    {
+      "name": "xaerominimap-forge-1.20.1-26.6.0.jar",
+      "version": "26.6.0",
+      "source": "user-provided JAR",
+      "sides": "client-only",
+      "sha256": "9b39cd06094d7631c8614d172d0ba8399c71c981530af417f12a7909fcb855bd"
     }
   ],
   "launcherVersion": "2.7.3"

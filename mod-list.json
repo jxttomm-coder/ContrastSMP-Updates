@@ -9,7 +9,9 @@
   "azurelibarmor-neo-1.20.1-2.0.14.jar",
   "balm-forge-1.20.1-7.3.44.jar",
   "bards_rpg-forge-3.0.2+1.20.1.jar",
+  "better_smithing_table-forge-2.2.1+1.20.jar",
   "bettercombat-forge-1.9.0+1.20.1.jar",
+  "BetterF3-7.0.2-Forge-1.20.1.jar",
   "born_in_chaos_[Forge]1.20.1_1.7.5.jar",
   "cloth-config-11.1.136-forge.jar",
   "collective-1.20.1-8.85.jar",
@@ -45,5 +47,6 @@
   "spell_power-forge-1.6.1+1.20.1.jar",
   "structure_pool_api-forge-1.2.1+1.20.1.jar",
   "waystones-forge-1.20.1-14.1.21.jar",
-  "witcher-class-mod-forge-3.1.5+1.20.1.jar"
+  "witcher-class-mod-forge-3.1.5+1.20.1.jar",
+  "xaerominimap-forge-1.20.1-26.6.0.jar"
 ]

@@ -1,3 +1,9 @@
+## v0.4.5 — Add client utilities
+
+- Add BetterF3 7.0.2, Better Smithing Table 2.2.1, and Xaero’s Minimap 26.6.0 to the client pack.
+- Publish a complete self-contained release with all 52 manifest JARs.
+- Keep the dedicated-server mod set unchanged.
+
 ## v0.4.0 — Supplied Forge modpack
 
 - Replace the client manifest with the 45 JARs in `Mod.zip` plus required Architectury and Wizards libraries.

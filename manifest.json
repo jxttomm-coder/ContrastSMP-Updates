@@ -1,351 +1,372 @@
 {
   "manifestVersion": 1,
-  "packVersion": "0.4.4",
+  "packVersion": "0.4.5",
   "minecraftVersion": "1.20.1",
   "forgeLoaderVersion": "47.4.28",
   "files": [
     {
       "name": "additional_rpg_jewelry-forge-2.3.1+1.20.1.jar",
       "version": "2.3.1",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/additional_rpg_jewelry-forge-2.3.1+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/additional_rpg_jewelry-forge-2.3.1%2B1.20.1.jar",
       "sha256": "b004405df18d6f120cb5dbbe20e9650fe411dca57163ae09d8cf4b009ff79f58",
       "size": 242151
     },
     {
       "name": "appleskin-forge-mc1.20.1-2.5.1.jar",
       "version": "${file.jarVersion}",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/appleskin-forge-mc1.20.1-2.5.1.jar",
       "sha256": "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426",
       "size": 47428
     },
     {
       "name": "archers-forge-3.1.4+1.20.1.jar",
       "version": "3.1.4",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/archers-forge-3.1.4+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/archers-forge-3.1.4%2B1.20.1.jar",
       "sha256": "9e064ff441eb254da0d8621892b499f6bde3c39a47a8ce920e5ace6a7c028bec",
       "size": 993040
     },
     {
       "name": "archers_expansion-forge-3.0.0+1.20.1.jar",
       "version": "3.0.0",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/archers_expansion-forge-3.0.0+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/archers_expansion-forge-3.0.0%2B1.20.1.jar",
       "sha256": "b1f263274c580233f12cf09f5e8b78568a3532a9719a2b84d22fe3b9a76b2d1a",
       "size": 1000332
     },
     {
       "name": "architectury-9.2.14-forge.jar",
       "version": "9.2.14",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/architectury-9.2.14-forge.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/architectury-9.2.14-forge.jar",
       "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
       "size": 580602
     },
     {
       "name": "armor_model_api-forge-1.0.0+1.20.1.jar",
       "version": "1.0.0+1.20.1",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/armor_model_api-forge-1.0.0+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/armor_model_api-forge-1.0.0%2B1.20.1.jar",
       "sha256": "9f866b9b5e500b41414be8224027820a14767d94d5e37c2ff72eaa7a13fe1e56",
       "size": 86757
     },
     {
       "name": "armory-forge-1.5.3+1.20.1.jar",
       "version": "1.5.3",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/armory-forge-1.5.3+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/armory-forge-1.5.3%2B1.20.1.jar",
       "sha256": "736486174162948c2480cbeb234c7adf878ba2598b67d56fb0040e6a44a1b006",
       "size": 634174
     },
     {
       "name": "arsenal-forge-1.5.1+1.20.1.jar",
       "version": "1.5.1",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/arsenal-forge-1.5.1+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/arsenal-forge-1.5.1%2B1.20.1.jar",
       "sha256": "f8e6d8610c936d0f19b003f87bebbf31f48572c48e8a8ffbe7bd9941e7bd0549",
       "size": 1223067
     },
     {
       "name": "azurelibarmor-neo-1.20.1-2.0.14.jar",
       "version": "${file.jarVersion}",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/azurelibarmor-neo-1.20.1-2.0.14.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/azurelibarmor-neo-1.20.1-2.0.14.jar",
       "sha256": "7ed059479a7a1b5f0bd46bba2b45c2f19aa1fd24ed8a5acdf709c074f88cd23d",
       "size": 417830
     },
     {
       "name": "balm-forge-1.20.1-7.3.44.jar",
       "version": "7.3.44",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/balm-forge-1.20.1-7.3.44.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/balm-forge-1.20.1-7.3.44.jar",
       "sha256": "c9dc421214fa3eccdcd5ad4d8974a422acef09396f5ee0f6250ae44cf5902810",
       "size": 561741
     },
     {
       "name": "bards_rpg-forge-3.0.2+1.20.1.jar",
       "version": "3.0.2",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/bards_rpg-forge-3.0.2+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/bards_rpg-forge-3.0.2%2B1.20.1.jar",
       "sha256": "91f5b389a648531cd6efb12de290ce77d2dbe47bc3d32a7f873bcf2e4d0bb105",
       "size": 14131244
     },
     {
+      "name": "better_smithing_table-forge-2.2.1+1.20.jar",
+      "version": "2.2.1",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/better_smithing_table-forge-2.2.1%2B1.20.jar",
+      "sha256": "366a41a1de0713c6baa6acb4c08d1d6c061d1a4cdf9315e608dd0f3b94f44d9b",
+      "size": 711405
+    },
+    {
       "name": "bettercombat-forge-1.9.0+1.20.1.jar",
       "version": "1.9.0+1.20.1",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/bettercombat-forge-1.9.0+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/bettercombat-forge-1.9.0%2B1.20.1.jar",
       "sha256": "49c69dccf2c641246b4e3deca81ebac21f0ee119e81fc713b838b8e33569eea1",
       "size": 1054339
     },
     {
+      "name": "BetterF3-7.0.2-Forge-1.20.1.jar",
+      "version": "7.0.2",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/BetterF3-7.0.2-Forge-1.20.1.jar",
+      "sha256": "e46ced73bdf78a59573a7188cfbe7256353f21a67eef752dc39b5e5816fc61c0",
+      "size": 468517
+    },
+    {
       "name": "born_in_chaos_[Forge]1.20.1_1.7.5.jar",
       "version": "1.7.5",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/born_in_chaos_Forge_1.20.1_1.7.5.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/born_in_chaos_%5BForge%5D1.20.1_1.7.5.jar",
       "sha256": "9f242f4f3330f3d0d985f5f3ce9a92fe09016ff9c6162252f201d17009b28d7d",
       "size": 11839865
     },
     {
       "name": "cloth-config-11.1.136-forge.jar",
       "version": "11.1.136",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/cloth-config-11.1.136-forge.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/cloth-config-11.1.136-forge.jar",
       "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
       "size": 1181413
     },
     {
       "name": "collective-1.20.1-8.85.jar",
       "version": "8.85",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/collective-1.20.1-8.85.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/collective-1.20.1-8.85.jar",
       "sha256": "10a268582f1c5d621eeda87727706fdd5ad2edc148aded7e2943f4f1857454b3",
       "size": 1124626
     },
     {
       "name": "create-1.20.1-6.0.8.jar",
       "version": "6.0.8",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/create-1.20.1-6.0.8.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/create-1.20.1-6.0.8.jar",
       "sha256": "6fbb910c367dbce8e4fc7e5bf64b6edd4de980906ed00af8e47e4af843c0d9b0",
       "size": 19170905
     },
     {
       "name": "curios-forge-5.14.1+1.20.1.jar",
       "version": "${file.jarVersion}",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/curios-forge-5.14.1+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/curios-forge-5.14.1%2B1.20.1.jar",
       "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
       "size": 398066
     },
     {
       "name": "druids-forge-1.3+1.20.1.jar",
       "version": "1.3",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.1/druids-forge-1.3+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/druids-forge-1.3%2B1.20.1.jar",
       "sha256": "b2eb8c44f632dbc414884195bada99b8f289d5176926425d264e1de7aa609609",
       "size": 450824
     },
     {
       "name": "dynamic-light-0.3.jar",
       "version": "0.3",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.4/dynamic-light-0.3.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/dynamic-light-0.3.jar",
       "sha256": "5d8b8619a45703f4a72e292f03ac4eb6be646994dfd35439fe0b234ccdeded2c",
       "size": 12429
     },
     {
       "name": "elemental_wizards_rpg-forge-3.1.1+1.20.1.jar",
       "version": "3.1.1",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/elemental_wizards_rpg-forge-3.1.1+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/elemental_wizards_rpg-forge-3.1.1%2B1.20.1.jar",
       "sha256": "4dff6faafd84eeb828f6fa96bc25f230fa71350dd03f7f30659eb03262a3d248",
       "size": 1382668
     },
     {
       "name": "entity_model_features-3.3.12-1.20.1-forge.jar",
       "version": "3.3.12",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/entity_model_features-3.3.12-1.20.1-forge.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/entity_model_features-3.3.12-1.20.1-forge.jar",
       "sha256": "d7caedcb7c848d605a9f075c71e0d13ad5194326e55a6f45a50a97a3d8d87920",
       "size": 840669
     },
     {
       "name": "entity_texture_features-7.2.7-1.20.1-forge.jar",
       "version": "7.2.7",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/entity_texture_features-7.2.7-1.20.1-forge.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/entity_texture_features-7.2.7-1.20.1-forge.jar",
       "sha256": "9a1a335b50026c1a2770254cd5f89f2f5c85f35a0a8ffeb1de9663c8b356c588",
       "size": 1004366
     },
     {
       "name": "FarmersDelight-1.20.1-1.3.4.jar",
       "version": "1.20.1-1.3.4",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/FarmersDelight-1.20.1-1.3.4.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/FarmersDelight-1.20.1-1.3.4.jar",
       "sha256": "34f03eb671ea1ca579b00c98e4541404cb96d1a292014aed9cc5eb45ad8afbce",
       "size": 3311051
     },
     {
       "name": "forcemaster_rpg-forge-3.1.2+1.20.1.jar",
       "version": "3.1.2",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/forcemaster_rpg-forge-3.1.2+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/forcemaster_rpg-forge-3.1.2%2B1.20.1.jar",
       "sha256": "42e05ba2690b9bb7fc932fff16bec2c95a9fb7aa1e2087038f760233695498ea",
       "size": 649823
     },
     {
       "name": "forge-medievalend-1.0.1.jar",
       "version": "1.0.1",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/forge-medievalend-1.0.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/forge-medievalend-1.0.1.jar",
       "sha256": "f65d1a3defd3d9d56d498ee79b6eeda8ec91193e6c2f989581e23f8069f4499f",
       "size": 169369
     },
     {
       "name": "geckolib-forge-1.20.1-4.8.4.jar",
       "version": "4.8.4",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/geckolib-forge-1.20.1-4.8.4.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/geckolib-forge-1.20.1-4.8.4.jar",
       "sha256": "4518779a31b6c2abb92c98b5ad17ef3d60177df68626bfc86c44de2764913c2b",
       "size": 1038209
     },
     {
       "name": "Jade-1.20.1-Forge-11.13.3.jar",
       "version": "${file.jarVersion}",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/Jade-1.20.1-Forge-11.13.3.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/Jade-1.20.1-Forge-11.13.3.jar",
       "sha256": "a632c77975e5aedff6322b0072f8b0db3f5d4bf914df6bdcc87d1aea4d5f55f4",
       "size": 553487
     },
     {
       "name": "jei-1.20.1-forge-15.56.0.205.jar",
       "version": "15.56.0.205",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/jei-1.20.1-forge-15.56.0.205.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/jei-1.20.1-forge-15.56.0.205.jar",
       "sha256": "6b251e60a4719c874da89d750af97aa6498f6f4475e3ae79cb1288c7bf0cb65c",
       "size": 1778129
     },
     {
       "name": "jewelry-forge-2.4.0+1.20.1.jar",
       "version": "2.4.0",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/jewelry-forge-2.4.0+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/jewelry-forge-2.4.0%2B1.20.1.jar",
       "sha256": "88d9ee0dbe84f20df7110f15ec29820bbc9c63a7931b544be56da43d8b6c68ef",
       "size": 508734
     },
     {
       "name": "medieval_buildings-1.20.1-1.1.3-forge.jar",
       "version": "1.1.3",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/medieval_buildings-1.20.1-1.1.3-forge.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/medieval_buildings-1.20.1-1.1.3-forge.jar",
       "sha256": "1e45593b718dbdb04a4ab228cf165afc27840e605bc44a65e0b0730b1ec1c178",
       "size": 313635
     },
     {
       "name": "medieval_buildings_nether_edition-1.20.1-1.0.2-forge.jar",
       "version": "1.0.2",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/medieval_buildings_nether_edition-1.20.1-1.0.2-forge.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/medieval_buildings_nether_edition-1.20.1-1.0.2-forge.jar",
       "sha256": "e77e6c39641335f584f3310d701ac85491d54088ce9740643484c94b1d6550a4",
       "size": 722849
     },
     {
       "name": "more_relics-forge-1.3.1+1.20.1.jar",
       "version": "1.3.1",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/more_relics-forge-1.3.1+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/more_relics-forge-1.3.1%2B1.20.1.jar",
       "sha256": "7b29422e9a340d11bc2d787cfddffe3ee362ef19e602e119a343e312d674a633",
       "size": 550145
     },
     {
       "name": "more_rpg_library-forge-2.7.3+1.20.1.jar",
       "version": "2.7.3",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/more_rpg_library-forge-2.7.3+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/more_rpg_library-forge-2.7.3%2B1.20.1.jar",
       "sha256": "b0de77544a2e72991f0855375769859a52ccedf8f0f231c7af8feb8b3448b012",
       "size": 2007891
     },
     {
       "name": "mrpgc_skill_tree-forge-1.3.0+1.20.1.jar",
       "version": "1.3.0",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/mrpgc_skill_tree-forge-1.3.0+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/mrpgc_skill_tree-forge-1.3.0%2B1.20.1.jar",
       "sha256": "83546d4f5ced6c0737d800299a25f7af79b52cecd37befc796997f5331bbb60c",
       "size": 1592827
     },
     {
       "name": "paladins-forge-3.1.3+1.20.1.jar",
       "version": "3.1.3",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/paladins-forge-3.1.3+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/paladins-forge-3.1.3%2B1.20.1.jar",
       "sha256": "b946b5663ef125dc9528f5d65c050de15294cce2cbaa6745ae55e302534f3eac",
       "size": 3119695
     },
     {
       "name": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
       "version": "1.0.2-rc1+1.20",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
       "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
       "size": 181437
     },
     {
       "name": "puffish_skills-0.19.2-1.20-forge.jar",
       "version": "0.19.2",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/puffish_skills-0.19.2-1.20-forge.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/puffish_skills-0.19.2-1.20-forge.jar",
       "sha256": "b5df0b2d3561486076bdfa9318cf143d05b3eab0ccb93a009b396eee1312ca8d",
       "size": 646512
     },
     {
       "name": "ranged_weapon_api-forge-2.3.4+1.20.1.jar",
       "version": "2.3.4+1.20.1",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/ranged_weapon_api-forge-2.3.4+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/ranged_weapon_api-forge-2.3.4%2B1.20.1.jar",
       "sha256": "f39b67ba0294dd1fa52c3b62aedcc8e19b972dd76f6eeb234b9c9f001201743d",
       "size": 794579
     },
     {
       "name": "relics-forge-1.4.0+1.20.1.jar",
       "version": "1.4.0",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/relics-forge-1.4.0+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/relics-forge-1.4.0%2B1.20.1.jar",
       "sha256": "8f894cc4c404c0d32ef2cd44be463a9c8b356388b9a11293b2783a82d072f4ab",
       "size": 2187582
     },
     {
       "name": "rogues-forge-3.1.3+1.20.1.jar",
       "version": "3.1.3",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/rogues-forge-3.1.3+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/rogues-forge-3.1.3%2B1.20.1.jar",
       "sha256": "71ce1f69f885a2c2b3f095d92b0caf01237da07db93b4423f977103d151deb71",
       "size": 1761703
     },
     {
       "name": "runes-forge-1.3.2+1.20.1.jar",
       "version": "1.3.2",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.4/runes-forge-1.3.2+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/runes-forge-1.3.2%2B1.20.1.jar",
       "sha256": "744c4a2d660a2cb2c109f7fe9bad3b55a19555d2f90423fcd34c0748214ba1ca",
       "size": 355981
     },
     {
       "name": "shield_api-forge-2.2.0+1.20.1.jar",
       "version": "2.2.0+1.20.1",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/shield_api-forge-2.2.0+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/shield_api-forge-2.2.0%2B1.20.1.jar",
       "sha256": "25c66aff657fe190202b7e6d775d105fce44c11a481a3c0aa123f28eeb8a45d4",
       "size": 40321
     },
     {
       "name": "skill_tree-forge-1.6.2+1.20.1.jar",
       "version": "1.6.2",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/skill_tree-forge-1.6.2+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/skill_tree-forge-1.6.2%2B1.20.1.jar",
       "sha256": "654de933b69500ce0d72c83a7a5898c880bc018213dc287f81eef8d78b12c35f",
       "size": 2967599
     },
     {
       "name": "spell_engine-forge-1.10.10+1.20.1.jar",
       "version": "1.10.10+1.20.1",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/spell_engine-forge-1.10.10+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/spell_engine-forge-1.10.10%2B1.20.1.jar",
       "sha256": "db7996c0fca65d50c9392dbc514c4de8a7ecccd1d8582052849515b9e7c3a1f8",
       "size": 5317252
     },
     {
       "name": "spell_power-forge-1.6.1+1.20.1.jar",
       "version": "1.6.1+1.20.1",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/spell_power-forge-1.6.1+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/spell_power-forge-1.6.1%2B1.20.1.jar",
       "sha256": "03dd31bebf21816a1199454b635e8713e78a5e3bb7ce817618db06aa198e8f48",
       "size": 233501
     },
     {
       "name": "structure_pool_api-forge-1.2.1+1.20.1.jar",
       "version": "1.2.1+1.20.1",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/structure_pool_api-forge-1.2.1+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/structure_pool_api-forge-1.2.1%2B1.20.1.jar",
       "sha256": "d6dafd38d23594bb2a687e72760d7c87fa4224d312699159bdb4b6a9fcbd1ed9",
       "size": 761800
     },
     {
       "name": "waystones-forge-1.20.1-14.1.21.jar",
       "version": "14.1.21",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/waystones-forge-1.20.1-14.1.21.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/waystones-forge-1.20.1-14.1.21.jar",
       "sha256": "fd6fe3c645328ea7be5bc6723d02c881e34650e0cbd4527ba59e42fa4cbe3c80",
       "size": 536782
     },
     {
       "name": "witcher-class-mod-forge-3.1.5+1.20.1.jar",
       "version": "3.1.5",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/witcher-class-mod-forge-3.1.5+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/witcher-class-mod-forge-3.1.5%2B1.20.1.jar",
       "sha256": "2c2c81b676ca76a67b5fbb6bf0e8ccd415372db616b2526293d79204fc9dbcb0",
       "size": 1681735
     },
     {
       "name": "wizards-forge-3.1.2+1.20.1.jar",
       "version": "3.1.2",
-      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.0/wizards-forge-3.1.2+1.20.1.jar",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/wizards-forge-3.1.2%2B1.20.1.jar",
       "sha256": "4fa7fecb940f75e949f1ef8f7e3b3785da52d0cdccfad019d3097a0fdf56bd13",
       "size": 4522796
+    },
+    {
+      "name": "xaerominimap-forge-1.20.1-26.6.0.jar",
+      "version": "26.6.0",
+      "url": "https://github.com/jxttomm-coder/ContrastSMP-Updates/releases/download/v0.4.5/xaerominimap-forge-1.20.1-26.6.0.jar",
+      "sha256": "9b39cd06094d7631c8614d172d0ba8399c71c981530af417f12a7909fcb855bd",
+      "size": 2196194
     }
   ]
 }
